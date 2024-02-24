@@ -1,0 +1,49 @@
+.header{
+    height: 500px;
+    background: url(./Nike-Adapt-BB\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.orta{
+    border: 15px solid white;
+    background: white;
+    border-radius: 6px;
+}
+.products{
+    background: #EBEBEB;
+}
+.air-max{
+    border-radius: 6px;
+    border: 15px solid #EBEBEB ;
+    background: #FFF;
+    padding: 15px;
+}
+.orta, .orta-2{
+    transform: translateY(-40px);
+}
+.input{
+    height: 100px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+.input-2{
+    height: 40px;
+    border-radius: 6px;
+}
+.bttt{
+    border-radius: 6px;
+    background: #544294;
+}
+.footer{
+    background: #322E41;
+    color: white;
+
+}
+.soz{
+    color: #D47300;
+}
+.input::placeholder{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
